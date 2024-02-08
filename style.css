@@ -1,0 +1,23 @@
+.root{
+    -fx-background-image:url("tictactoe.jpg");
+}
+.button{
+    -fx-background-color:rgb(255, 255, 255);
+    -fx-text-fill:black;
+    -fx-font-family:"Lucida Handwriting";
+    -fx-font-size:24;
+    -fx-font-weight:BOLD;
+}
+#textpane{
+    -fx-border-insets:30,50,50,30;
+    -fx-border-color:black;
+    -fx-background-insets:30,50,50,30;
+    -fx-background-color:rgb(255, 255, 255);
+
+}
+Text{
+    -fx-font-family:"Lucida Handwriting";
+    -fx-font-size:18;
+    -fx-font-weight:BOLD;
+}
+
